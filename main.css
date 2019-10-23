@@ -6,3 +6,6 @@
     color:black;
     font-size: 15px;
   }
+li{
+   list-style-type: none;
+}
